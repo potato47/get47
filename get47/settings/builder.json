@@ -1,0 +1,17 @@
+{
+  "excludeScenes": [],
+  "includeAnySDK": false,
+  "includeSdk": [
+    "anysdk"
+  ],
+  "orientation": {
+    "landscapeLeft": true,
+    "landscapeRight": true,
+    "portrait": false,
+    "upsideDown": false
+  },
+  "packageName": "org.cocos2d.get47",
+  "startScene": "7d2f2b37-9ad7-4d8d-aa02-217263371523",
+  "title": "get47",
+  "webOrientation": "auto"
+}
